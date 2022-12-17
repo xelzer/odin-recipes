@@ -1,0 +1,39 @@
+body {
+    font-family: Georgia, sans-serif;
+    margin: 0 0;
+    background-color: lightseagreen;
+}
+
+h1 {
+    text-align: center;
+}
+
+p.header {
+    text-align: center;
+}
+
+.recipe-list {
+    border: 1px solid black;
+    width: 60%;
+    margin: 0 auto;
+}
+
+li {
+    padding: 10px 0;
+}
+
+a:link {
+    color: purple;
+}
+
+a:hover {
+    color: red;
+}
+
+a:visited {
+    color: black;
+}
+
+a:active {
+    color:purple;
+}

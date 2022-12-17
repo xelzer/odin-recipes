@@ -1,0 +1,43 @@
+body {
+    background-color: lightseagreen;
+    font-family: Georgia, sans-serif;
+    font-size: 24px;
+}
+
+img {
+    width: 800px;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+    border-radius: 25px;
+}
+
+h1 {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+footer a {
+    display: block;
+    margin: 10px 0;
+}
+
+footer a:link {
+    color: purple;
+}
+
+footer a:hover {
+    color: red;
+}
+
+footer a:visited {
+    color: black;
+}
+
+footer a:active {
+    color:purple;
+}
+
